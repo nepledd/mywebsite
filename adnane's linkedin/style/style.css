@@ -1,0 +1,15 @@
+@import url("components/zone0.css");
+@import url("components/zone1.css");
+@import url("components/zone2.css");
+@import url("components/zone3.css");
+@import url("components/zone4.css");
+@import url("components/card.css");
+@import url("components/card1.css");
+@import url("components/card2.css");
+@import url("components/card-gen.css");
+
+
+body{
+  background-color: rgb(243, 242, 239);
+}
+

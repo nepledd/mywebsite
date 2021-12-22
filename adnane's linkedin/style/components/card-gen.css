@@ -1,0 +1,7 @@
+.card-gen{
+  list-style-type:none ;
+  display: flex;
+  align-items: center;
+  width: 1000px;
+
+}

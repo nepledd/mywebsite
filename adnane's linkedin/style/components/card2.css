@@ -1,0 +1,43 @@
+.card2 {
+  background-color: rgb(233, 229, 223);
+  width: 750px;
+  margin-left: 50px;
+  margin-top: 60px;
+  border-radius: 20px;
+  padding-left: 40px;
+
+}
+.card2 ul{
+  list-style-type:none ;
+  display: flex;
+  align-items: flex-start;
+  width: 750px;
+}
+.card2 h1 {
+  font-size: 30px;
+  width: 600px;
+}
+.card2 h3 {
+
+  width: 650px;
+}
+.card2 p{
+  color: black;
+  width: 650px;
+}
+.card2 h3:hover{
+  text-decoration: underline;
+}
+.card2 li{
+  margin-right: 0px;
+  padding-right:0px ;
+}
+.pen {
+  font-size: 25px;
+  margin-top: 20px;
+}
+.pen:hover{
+  background-color: rgb(215, 211, 206);
+  border-radius: 50%;
+
+}
